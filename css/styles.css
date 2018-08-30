@@ -171,8 +171,6 @@ a:visited {
  background-image: url("https://i.imgur.com/EH2bVb3.jpg");
 }
 
-
-
 .view-profile-div {
   position: absolute;
   bottom: 0;
@@ -295,6 +293,11 @@ a:visited {
   color: #85929d;
   width: 75%;
   margin: 0 auto;
+}
+
+.profile-quote_author {
+  display: block;
+  font-size: 18px;
 }
 
 .details-container {
