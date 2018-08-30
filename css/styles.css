@@ -292,12 +292,13 @@ a:visited {
   font-size: 24px;
   color: #85929d;
   width: 75%;
-  margin: 0 auto 20px;
+  margin: 0 auto;
 }
 
 .profile-quote_author {
   display: block;
   font-size: 18px;
+  margin-top: 15px;
 }
 
 .details-container {
